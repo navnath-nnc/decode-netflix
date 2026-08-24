@@ -16,6 +16,8 @@
 - Implemented Sign Out
 - Update Profile
 - Fetch from TMDB Movies
+- BugFix: Sign up user diaplayName and Profile picture update
+- BugFix: If the user is not Logged In redirect "/browse" to Login page and vice-versa
 
 #Features
 
