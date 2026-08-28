@@ -36,6 +36,9 @@
 - Integrated img CDN url from TMDB
 - Make the browse page amazing with tailwind css
 - Added usePopularMovies, useToparedMovies, useUpcomingMovies hooks to handle the perticular APIs and its data
+- GPT Search Page
+- GPT Search Bar
+- Implemented Multi-Language Feature
 
 #Features
 
