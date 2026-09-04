@@ -39,6 +39,14 @@
 - GPT Search Page
 - GPT Search Bar
 - Implemented Multi-Language Feature
+- Get Gemini API Key
+- Gemini Search API Call
+- Fetched Gemini Suggessions Movies Based on search Movie Names from TMDB
+- Reused MovieList Component to Display Movies got as Suggessions Response
+- Memoization
+- Created .env file to add API Keys
+- Added .env file to .gitignore
+- Make decode-netflix app Responsive
 
 #Features
 
